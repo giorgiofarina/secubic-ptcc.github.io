@@ -1,4 +1,17 @@
 ---
+- year: 2026
+  publications:
+        - title: "AnBridge: Protecting On-device AI with Android Virtualization Framework"
+          authors:
+            - name: Giorgio Farina
+            - name: Raffaele Della Corte
+            - name: Aravind Machiry
+            - name: Marcello Cinque
+            - name: Saurabh Bagchi
+          venue: 56th Annual IEEE/IFIP International Conference on Dependable Systems and Networks
+          venue-acronym: DSN
+          ranking: A
+
 - year: 2025
   publications:
         - title: "BLens: Contrastive Captioning of Binary Functions using Ensemble Embedding"
